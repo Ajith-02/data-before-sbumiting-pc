@@ -1,0 +1,30 @@
+.name{
+    color: pink;
+    background-color: beige;
+    width: 250px;
+}
+.number{
+    color: blue;
+    background-color: #dcf5f3;
+}
+.password{
+    color: green;
+    background-color: beige;
+}
+.forest{
+    height: 300px;
+    width: 300px;
+    object-fit: cover; /* zoome in image*/
+   object-fit: contain; /* zoomed out image*/
+    object-position: right;
+}
+.daily{
+    color: orange;
+}
+.heading{
+    color: palegreen;
+    background-color: red;
+}
+.zen{
+    width: 50%;
+}
